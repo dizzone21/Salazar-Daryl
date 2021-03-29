@@ -1,0 +1,10 @@
+{
+    vendorId "eqela"
+    projectId "tasklist"
+    title "Sling Tasklist"
+    libraries [
+        
+        "jk-db:0.19.0"
+        "jk-server:0.19.0"
+    ]
+}
